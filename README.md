@@ -32,13 +32,15 @@ The model analyzes transaction patterns and predicts whether a transaction is **
 ---
 
 ## 📂 Project Structure
+```bash
 UPI_Fraud_Detection/
-│── data/ # Dataset files
-│── notebooks/ # Jupyter notebooks
-│── model/ # Trained models
-│── app.py # (if web app exists)
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+├── data/
+├── notebooks/
+├── model/
+├── app.py
+├── requirements.txt
+└── README.md
+```
 
 
 
