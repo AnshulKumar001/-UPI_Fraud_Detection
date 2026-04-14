@@ -4,7 +4,7 @@ A Machine Learning-based project to detect fraudulent UPI transactions using dat
 
 ---
 
-## 📌 Overview
+## Overview
 
 With the rapid growth of digital payments in India, UPI transactions have increased significantly. However, this has also led to a rise in fraud cases. This project focuses on building a system that can identify suspicious transactions using Machine Learning techniques.
 
